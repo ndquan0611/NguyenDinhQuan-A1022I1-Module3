@@ -1,0 +1,165 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="UTF-8" />
+        <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+        <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+        <link
+            rel="stylesheet"
+            href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.10.5/font/bootstrap-icons.css"
+        />
+        <link
+            href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/css/bootstrap.min.css"
+            rel="stylesheet"
+            integrity="sha384-EVSTQN3/azprG1Anm3QDgpJLIm9Nao0Yz1ztcQTwFspd3yD65VohhpuuCOmLASjC"
+            crossorigin="anonymous"
+        />
+        <script
+            src="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/js/bootstrap.bundle.min.js"
+            integrity="sha384-MrcW6ZMFYlzcLA8Nl+NtUVF0sA7MsXsP1UyJoMp4YLEuNSfAP+JcXn/tWtIaxVXM"
+            crossorigin="anonymous"
+        ></script>
+        <title>Quản lý sinh viên</title>
+    </head>
+    <body style="margin: 100px auto 0">
+        <div class="container">
+            <h1 style="margin-bottom: 20px">Danh sách sinh viên</h1>
+            <table class="table">
+                <thead>
+                    <tr>
+                        <th scope="col">#</th>
+                        <th scope="col">Họ tên</th>
+                        <th scope="col">Lớp</th>
+                        <th scope="col">Tuổi</th>
+                        <th scope="col">Action</th>
+                    </tr>
+                </thead>
+                <tbody>
+                    <tr>
+                        <th scope="row">1</th>
+                        <td>Quân</td>
+                        <td>A1022I1</td>
+                        <td>20</td>
+                        <td>
+                            <button
+                                type="button"
+                                class="btn btn-primary"
+                                data-bs-toggle="modal"
+                                data-bs-target="#modal"
+                                data-bs-name="Quân"
+                                data-bs-classroom="A1022I1"
+                                data-bs-age="20"
+                            >
+                                Edit
+                            </button>
+                        </td>
+                    </tr>
+                    <tr>
+                        <th scope="row">2</th>
+                        <td>Minh</td>
+                        <td>A1122I1</td>
+                        <td>20</td>
+                        <td>
+                            <button
+                                type="button"
+                                class="btn btn-primary"
+                                data-bs-toggle="modal"
+                                data-bs-target="#modal"
+                                data-bs-name="Minh"
+                                data-bs-classroom="A1122I1"
+                                data-bs-age="20"
+                            >
+                                Edit
+                            </button>
+                        </td>
+                    </tr>
+                    <tr>
+                        <th scope="row">3</th>
+                        <td>Hậu</td>
+                        <td>A1122I1</td>
+                        <td>20</td>
+                        <td>
+                            <button
+                                type="button"
+                                class="btn btn-primary"
+                                data-bs-toggle="modal"
+                                data-bs-target="#modal"
+                                data-bs-name="Hậu"
+                                data-bs-classroom="A1122I1"
+                                data-bs-age="20"
+                            >
+                                Edit
+                            </button>
+                        </td>
+                    </tr>
+                </tbody>
+            </table>
+        </div>
+
+        <div
+            class="modal fade"
+            id="modal"
+            tabindex="-1"
+            aria-labelledby="exampleModalLabel"
+            aria-hidden="true"
+        >
+            <div class="modal-dialog">
+                <div class="modal-content">
+                    <div class="modal-header">
+                        <h5 class="modal-title" id="modalLabel">Chỉnh sửa thông tin</h5>
+                        <button
+                            type="button"
+                            class="btn-close"
+                            data-bs-dismiss="modal"
+                            aria-label="Close"
+                        ></button>
+                    </div>
+                    <div class="modal-body">
+                        <form>
+                            <div class="mb-3">
+                                <label for="name" class="col-form-label">Họ tên: </label>
+                                <input type="text" class="form-control" id="name" />
+                            </div>
+                            <div class="mb-3">
+                                <label for="classroom" class="col-form-label">Lớp học: </label>
+                                <input type="text" class="form-control" id="classroom" />
+                            </div>
+                            <div class="mb-3">
+                                <label for="age" class="col-form-label">Tuổi: </label>
+                                <input type="text" class="form-control" id="age" />
+                            </div>
+                        </form>
+                    </div>
+                    <div class="modal-footer">
+                        <button type="button" class="btn btn-secondary" data-bs-dismiss="modal">
+                            Close
+                        </button>
+                        <button type="button" class="btn btn-primary">Save</button>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </body>
+    <script>
+        var modal = document.getElementById("modal");
+        modal.addEventListener("show.bs.modal", function (e) {
+            // Button that triggered the modal
+            var button = e.relatedTarget;
+            // Extract info from data-bs-* attributes
+            var name = button.getAttribute("data-bs-name");
+            var classroom = button.getAttribute("data-bs-classroom");
+            var age = button.getAttribute("data-bs-age");
+            // If necessary, you could initiate an AJAX request here
+            // and then do the updating in a callback.
+            //
+            // Update the modal's content.
+            var modalBodyName = modal.querySelector("#name");
+            var modalBodyClassroom = modal.querySelector("#classroom");
+            var modalBodyAge = modal.querySelector("#age");
+
+            modalBodyName.value = name;
+            modalBodyClassroom.value = classroom;
+            modalBodyAge.value = age;
+        });
+    </script>
+</html>

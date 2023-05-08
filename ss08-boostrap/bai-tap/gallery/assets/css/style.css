@@ -1,0 +1,38 @@
+#app {
+    margin: 8px;
+}
+
+h2 {
+    margin: 20px 0;
+    font-size: 2.4rem;
+    font-weight: bold;
+}
+
+h4 {
+    margin: 20px 0;
+    font-size: 1.6rem;
+    font-weight: bold;
+}
+
+p {
+    margin: 0;
+}
+
+.gallery-item {
+    border: 1px solid #ccc;
+    transition: 0.3s ease;
+}
+
+.gallery-item:hover {
+    border: 1px solid #000;
+}
+
+.gallery-item .desc {
+    padding: 15px;
+    text-align: center;
+}
+
+.gallery-item a img {
+    width: 100%;
+    display: block;
+}
