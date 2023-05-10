@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="00772976-5fe9-4246-9bfd-766fe3fbd757" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/ss09-jsp-servlet/bai-tap/demo/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ss09-jsp-servlet/bai-tap/demo/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ss09-jsp-servlet/bai-tap/demo/.idea/gradle.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ss09-jsp-servlet/bai-tap/demo/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ss09-jsp-servlet/bai-tap/demo/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ss09-jsp-servlet/bai-tap/demo/.idea/runConfigurations.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ss09-jsp-servlet/bai-tap/demo/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ss09-jsp-servlet/bai-tap/demo/src/main/java/controller/DemoServlet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ss09-jsp-servlet/bai-tap/demo/src/main/webapp/index.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ss09-jsp-servlet/thuc-hanh/thuc-hanh-3/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ss09-jsp-servlet/thuc-hanh/thuc-hanh-3/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ss09-jsp-servlet/thuc-hanh/thuc-hanh-3/.idea/gradle.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ss09-jsp-servlet/thuc-hanh/thuc-hanh-3/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ss09-jsp-servlet/thuc-hanh/thuc-hanh-3/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ss09-jsp-servlet/thuc-hanh/thuc-hanh-3/.idea/runConfigurations.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ss09-jsp-servlet/thuc-hanh/thuc-hanh-3/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ss09-jsp-servlet/thuc-hanh/thuc-hanh-3/src/main/java/controller/ConvertServlet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ss09-jsp-servlet/thuc-hanh/thuc-hanh-3/src/main/webapp/index.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ss10-jstl-jsp/thuc-hanh/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ss10-jstl-jsp/thuc-hanh/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ss10-jstl-jsp/thuc-hanh/.idea/gradle.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ss10-jstl-jsp/thuc-hanh/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ss10-jstl-jsp/thuc-hanh/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ss10-jstl-jsp/thuc-hanh/.idea/runConfigurations.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ss10-jstl-jsp/thuc-hanh/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ss10-jstl-jsp/thuc-hanh/src/main/java/controller/ConvertServlet.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="2PVietO8TfWZ7WsRyjwCQrhzCpi" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="00772976-5fe9-4246-9bfd-766fe3fbd757" name="Default Changelist" comment="" />
+      <created>1683548747572</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1683548747572</updated>
+      <workItem from="1683548750987" duration="1000" />
+    </task>
+    <servers />
+  </component>
+</project>
