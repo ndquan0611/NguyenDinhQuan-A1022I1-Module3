@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="1f72f979-5f7b-4d34-9e23-eece013d7926" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../../ss12-jdbc/thuc-hanh/src/main/java/bean/User.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ss12-jdbc/thuc-hanh/src/main/java/repository/UserRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ss12-jdbc/thuc-hanh/src/main/java/repository/UserRepositoryImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ss12-jdbc/thuc-hanh/src/main/java/service/UserService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ss12-jdbc/thuc-hanh/src/main/java/service/UserServiceImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ss09-jsp-servlet/thuc-hanh/thuc-hanh-3/.gradle/7.1.1/executionHistory/executionHistory.bin" beforeDir="false" afterPath="$PROJECT_DIR$/../../ss09-jsp-servlet/thuc-hanh/thuc-hanh-3/.gradle/7.1.1/executionHistory/executionHistory.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ss09-jsp-servlet/thuc-hanh/thuc-hanh-3/.gradle/7.1.1/executionHistory/executionHistory.lock" beforeDir="false" afterPath="$PROJECT_DIR$/../../ss09-jsp-servlet/thuc-hanh/thuc-hanh-3/.gradle/7.1.1/executionHistory/executionHistory.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ss09-jsp-servlet/thuc-hanh/thuc-hanh-3/.gradle/7.1.1/fileHashes/fileHashes.bin" beforeDir="false" afterPath="$PROJECT_DIR$/../../ss09-jsp-servlet/thuc-hanh/thuc-hanh-3/.gradle/7.1.1/fileHashes/fileHashes.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ss09-jsp-servlet/thuc-hanh/thuc-hanh-3/.gradle/7.1.1/fileHashes/fileHashes.lock" beforeDir="false" afterPath="$PROJECT_DIR$/../../ss09-jsp-servlet/thuc-hanh/thuc-hanh-3/.gradle/7.1.1/fileHashes/fileHashes.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ss09-jsp-servlet/thuc-hanh/thuc-hanh-3/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" afterPath="$PROJECT_DIR$/../../ss09-jsp-servlet/thuc-hanh/thuc-hanh-3/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ss09-jsp-servlet/thuc-hanh/thuc-hanh-3/build/classes/java/main/controller/TranslationServlet.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../ss09-jsp-servlet/thuc-hanh/thuc-hanh-3/build/classes/java/main/controller/TranslationServlet.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ss09-jsp-servlet/thuc-hanh/thuc-hanh-3/build/libs/thuc-hanh-3-1.0-SNAPSHOT.war" beforeDir="false" afterPath="$PROJECT_DIR$/../../ss09-jsp-servlet/thuc-hanh/thuc-hanh-3/build/libs/thuc-hanh-3-1.0-SNAPSHOT.war" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ss09-jsp-servlet/thuc-hanh/thuc-hanh-3/build/tmp/compileJava/previous-compilation-data.bin" beforeDir="false" afterPath="$PROJECT_DIR$/../../ss09-jsp-servlet/thuc-hanh/thuc-hanh-3/build/tmp/compileJava/previous-compilation-data.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ss09-jsp-servlet/thuc-hanh/thuc-hanh-3/src/main/java/controller/TranslationServlet.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../ss09-jsp-servlet/thuc-hanh/thuc-hanh-3/src/main/java/controller/TranslationServlet.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ss09-jsp-servlet/thuc-hanh/thuc-hanh-3/src/main/webapp/search.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/../../ss09-jsp-servlet/thuc-hanh/thuc-hanh-3/src/main/webapp/search.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ss10-jstl-jsp/bai-tap/calculator/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../ss10-jstl-jsp/bai-tap/calculator/.idea/gradle.xml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="ProjectId" id="2PsUBctbo1Jhjd10vsnsVZ4x6Wq" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="1f72f979-5f7b-4d34-9e23-eece013d7926" name="Changes" comment="" />
+      <created>1684245148749</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1684245148749</updated>
+      <workItem from="1684245149936" duration="4000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
