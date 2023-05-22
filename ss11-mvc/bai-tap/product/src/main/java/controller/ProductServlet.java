@@ -88,7 +88,6 @@ public class ProductServlet extends HttpServlet {
         }
     }
 
-
     private void doUpdate(HttpServletRequest request, HttpServletResponse response) throws IOException {
         int id = Integer.parseInt(request.getParameter("id"));
         String name = request.getParameter("name");
